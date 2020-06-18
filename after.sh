@@ -78,7 +78,7 @@ git clone https://github.com/tajo48/ARCH-builds.git
 ###MKPKG
 
 
-yay 
+#yay 
 cd /home/tajo48/ARCH-builds/
 git clone https://aur.archlinux.org/yay-git.git
 cd /home/tajo48/ARCH-builds/yay-git
