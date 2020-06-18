@@ -76,13 +76,13 @@ git clone https://github.com/tajo48/ARCH-builds.git
 
 
 ###MKPKG
-#cp config.h config.def.h
 
-#yay 
-#cd /home/tajo48/ARCH-builds/
-#git clone https://aur.archlinux.org/yay-git.git
-#cd /home/tajo48/ARCH-builds/yay-git
-#makepkg -s -i -c --noconfirm
+
+yay 
+cd /home/tajo48/ARCH-builds/
+git clone https://aur.archlinux.org/yay-git.git
+cd /home/tajo48/ARCH-builds/yay-git
+makepkg -s -i -c --noconfirm
 
 
 <<com123
