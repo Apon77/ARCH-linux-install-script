@@ -5,7 +5,6 @@ loadkeys dvorak
 setfont Lat2-Terminus16.psfu.gz -m 8859-2
 pacman -Syyy
 pacman -S --noconfirm reflector
-#Change Bangladesh to your country in next line.
 reflector -c Bangladesh -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 pacman -Syyy
 
