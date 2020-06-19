@@ -70,6 +70,7 @@ sudo make clean install
 sudo sh /home/tajo48/ARCH-files/bar.sh &
 cd /home/tajo48
 exec dwm
+clipmenud
 " >> /home/tajo48/.xinitrc
 pacman -S --noconfirm feh firefox rxvt-unicode
 git clone https://github.com/tajo48/ARCH-builds.git
