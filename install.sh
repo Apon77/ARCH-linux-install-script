@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Font
-loadkeys pl
+loadkeys dvorak
 setfont Lat2-Terminus16.psfu.gz -m 8859-2
 
 
